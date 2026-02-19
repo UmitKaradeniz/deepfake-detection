@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Test videoları
+*.mp4
+
+# Eğitim verileri (çok büyük, GitHub'a yüklenmez)
+egitim_verisi/
+
+# Eski/deneysel modeller
+deepfake_detector_rf.pkl
+
+# MediaPipe model (indirilebilir)
+face_landmarker.task
