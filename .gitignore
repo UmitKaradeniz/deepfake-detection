@@ -14,3 +14,6 @@ deepfake_detector_rf.pkl
 
 # MediaPipe model (indirilebilir)
 face_landmarker.task
+
+# PDF dosyaları
+*.pdf
